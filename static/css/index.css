@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+  padding: 1rem .25rem;
+}
+
+.desc {
+  font-size: 14px;
+  padding: 0 .25rem;
+}
